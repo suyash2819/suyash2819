@@ -2,15 +2,6 @@
 
 Software Engineer building scalable and reliable solutions/applications.
 
-### Skills 
-
-Programming Languages: JavaScript, Core Java, SQL, Python, HTML, CSS
-Frontend and Back-end Web Technologies: Bootstrap, React.js, Node.js
-Database Management system & Caching Technologies: MySQL, SQL Server, MongoDB (NoSQL), Firebase, Redis (caching), PostgreSQL
-Cloud Computing Technologies: Amazon Web Services (AWS), Azure Data Factory (ADF), Azure Data Warehouse (ADW), Azure Database (ADB), Amazon Web Services (AWS), Google Cloud Platform (GCP)
-Version Control Systems: Git (Version Control), GitHub (Collaborative Development Platform), NPM
-Other tools / Frameworks / Containerization: SQL Server Management Studio (SSMS), Docker, RabbitMQ, Spring Boot, Postman
-
 <!--
 **suyash2819/suyash2819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
