@@ -1,4 +1,8 @@
 ## Hi there 👋, I'm Suyash Mandhana
+
+# Current Readme Status
+
+<img src="https://github-readme-stats.vercel.app/api?username=suyash2819&show_icons=true&theme=ADD_THEME_HERE" width="400">
 <!--
 **suyash2819/suyash2819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
