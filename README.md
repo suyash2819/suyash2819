@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suyash Mandhana</h1>
 <h3 align="center">Software Engineer building scalable and reliable solutions/applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyash2819" alt="suyash2819" /></a> </p>
-
 - 🔭 I’m currently working on **I’m currently working on building scalable APIs to enable users to access the AI-powered real time language translation feature at Vosyn**
 
 - 💬 Ask me about **Software Engineering**
@@ -14,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suyash2819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash2819" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mandhanasuyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suyash2819" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mandhanasuyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mandhanasuyash" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suyash2819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suyash2819" height="30" width="40" /></a>
 </p>
 
