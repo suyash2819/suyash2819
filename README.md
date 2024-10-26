@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suyash Mandhana</h1>
 <h3 align="center">Software Engineer building scalable and reliable solutions/applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash2819&label=Profile%20views&color=0e75b6&style=flat" alt="suyash2819" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyash2819" alt="suyash2819" /></a> </p>
 
 - 🔭 I’m currently working on **I’m currently working on building scalable APIs to enable users to access the AI-powered real time language translation feature at Vosyn**
