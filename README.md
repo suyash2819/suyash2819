@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyash Mandhana</h1>
-<h3 align="center">Software Engineer building scalable and reliable solutions/applications.</h3>
+<h3 align="center">Software Engineer building scalable and reliable solutions/applications. Looking for full time Software Engineer / Software Developer / Data Engineer opportunities</h3>
 
 - 🔭 I’m currently working on **I’m currently working on building scalable APIs to enable users to access the AI-powered real time language translation feature at Vosyn**
 
