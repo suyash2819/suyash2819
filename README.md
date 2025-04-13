@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Mandhana</h1>
 <h3 align="center">Software Engineer building scalable and reliable solutions/applications </h3>
 
-- 🔭 I’m currently working as **Software Engineer in American Airlines**
+- 🔭 I’m currently working as a **Software Engineer in American Airlines**
 
 - 💬 Ask me about **Software Engineering**
 
