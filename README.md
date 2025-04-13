@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Software Engineering**
 
-- 📫 How to reach me **mandhanasuyash2819@gmail.com | linkedin.com/in/suyash2819 | 8123616080**
+- 📫 How to reach me **mandhanasuyash2819@gmail.com | linkedin.com/in/suyash2819**
 
 - ⚡ Fun fact **I like Pani Puri (Indian Snack)**
 
